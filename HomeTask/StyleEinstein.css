@@ -1,0 +1,28 @@
+body{
+    background-color: #dcdce6;
+}
+.ImgDiv img {
+    width: 12%;
+}
+.ImgDiv{
+    text-align: center;
+}
+
+.ImgDiv span{
+    font-size: 13px;
+}
+.ImgDiv p{
+    font-size: 13px;
+}
+
+.FirstTextDiv p {
+
+    text-align: center;
+    
+}
+
+.UlDiv ul li{
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+

@@ -1,0 +1,81 @@
+body{
+    background-color: #f8fad2;
+}
+
+.MainDiv{
+    border: 1px solid #f0f0f0;
+    background-color: white;
+    width: 70%;
+    min-height: 600px;
+    margin: auto;
+    border-radius: 15px;
+}
+.Div1{
+    border: 1px solid #f0f0f0;
+    width: 97%;
+    min-height: 300px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-top: 1px solid #f0f0f0;
+    line-height: 0;
+    text-align: left; 
+    margin-top:40px;
+    border-radius: 15px;
+    
+}
+
+.Div1 span { 
+    background-color: #ffffff;
+    padding: 0 10px;
+    margin: 0 20px;
+   
+}
+
+.InputDiv{
+    margin-left: 10px;
+}
+
+.InputDiv input{
+    margin-top: 15px;
+}
+
+
+.Div2{
+    border: 1px solid #f0f0f0;
+    width: 97%;
+    min-height: 250px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    line-height: 0;
+    text-align: left; 
+    border-radius: 15px;
+    
+}
+.Div3{
+    border: 1px solid #f0f0f0;
+    width: 97%;
+    height: 50px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+.Div4{
+    border: 1px solid #f0f0f0;
+    width: 97%;
+    min-height: 300px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-top: 1px solid #f0f0f0;
+    line-height: 0;
+    text-align: left; 
+    margin-top:40px;
+    border-radius: 15px;
+}
+
+.Div4 span { 
+    background-color: #ffffff;
+    padding: 0 10px;
+    margin: 0 20px;
+   
+}
+
